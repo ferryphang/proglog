@@ -1,2 +1,2 @@
-github.com/travisjeffery/proglog v0.0.0-20201127042147-f6dae5fb8cb4 h1:wSRVsCYxlfG9G++d9F98TO7PFsfCN+umiI3xHo3iH+I=
-github.com/travisjeffery/proglog v0.0.0-20201127042147-f6dae5fb8cb4/go.mod h1:ayNJHUj8W0UMcSaYgoimtzY9+tN0SxDhAZBAyeITgoQ=
+github.com/gorilla/mux v1.8.1 h1:TuBL49tXwgrFYWhqrNgrUNEY92u81SPhu7sTdzQEiWY=
+github.com/gorilla/mux v1.8.1/go.mod h1:AKf9I4AEqPTmMytcMc0KkNouC66V3BtZ4qD5fmWSiMQ=
